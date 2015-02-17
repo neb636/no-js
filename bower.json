@@ -1,0 +1,26 @@
+{
+  "name": "no-js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/neb636/No-Js",
+  "authors": [
+    "Nick <neb636@gmail.com>"
+  ],
+  "description": "A plugin to solve all your issues with Js",
+  "main": "jquery.no-js.js",
+  "keywords": [
+    "no",
+    "js",
+    "resolve"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.0.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
