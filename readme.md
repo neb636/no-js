@@ -6,7 +6,7 @@
 To use NoJs in your project simply include the plugin js file in the footer section
  of your HTML file:
 ```html
-<script type="text/javascript" src="js/jquery.jquery.no-js.js"></script>
+<script type="text/javascript" src="js/jquery.no-js.js"></script>
 ```
 
 ## Usage
