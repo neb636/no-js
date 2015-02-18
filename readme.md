@@ -18,3 +18,6 @@ To use NoJs in your project simply include the plugin js file in the footer sect
 
 $('#element').noJs();
 ```
+
+## See It in Action
+[No Js Example](http://codepen.io/neb636/pen/aejhz)
