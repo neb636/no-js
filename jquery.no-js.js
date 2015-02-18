@@ -1,10 +1,9 @@
 ;(function($) {
     $.fn.noJs = function() {
-        var childElements = this.selector + ' *';
-
-        $(childElements).each(function () {
-            var innerText = $(this).text().replace(/J/g, '').replace(/j/g, '');
-            $(this).text(innerText);
+        $(this).find('*').each(function () {
+            var innerText = $(this).text(function(i,text){
+                return text.replace(/j/gi, '');
+            });
         });
     }
 }(jQuery));
