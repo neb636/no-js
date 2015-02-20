@@ -1,8 +1,6 @@
-<p align="center">
+<p>
     <img width="500" src="https://raw.github.com/neb636/no-js/master/no-js.png">
 </p>
-
-# No Js
 
 ## Simple jQuery plugin to help with pesky Js problems.
 What is great about no-js is that it allows you to deal with Js issues in a
