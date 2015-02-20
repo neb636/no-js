@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.github.com/neb636/no-js/master/no-js.png">
+    <img width="500" src="https://raw.github.com/neb636/no-js/master/no-js.png">
 </p>
 
 # No Js
