@@ -24,4 +24,4 @@ $('#element').noJs();
 ```
 
 ## See It in Action
-[No Js Example](http://codepen.io/neb636/pen/aejhz)
+[no-js example](http://codepen.io/neb636/pen/aejhz)
