@@ -4,7 +4,10 @@
 
 ## Simple jQuery plugin to help with pesky Js problems.
 What is great about no-js is that it allows you to deal with Js issues in a
-isolated scope using dom elements. If there was a Js issue inside a element with a id of #slideshow you could remove all Js for just that dom element and it's children. Other plugins trying to solve the same problem are not as specific as No Js.
+isolated scope using dom elements. If there was a Js issue inside a element with a
+ id of #slideshow you could remove all Js for just that dom element and it's
+ children. Other plugins trying to solve the same problem are not as specific as
+ no-js.
 
 ## Installation
 
