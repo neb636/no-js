@@ -1,5 +1,5 @@
 <p>
-    <img width="500" src="https://raw.github.com/neb636/no-js/master/no-js.png">
+    <img width="1000" src="https://raw.github.com/neb636/no-js/master/no-js.png">
 </p>
 
 ## Simple jQuery plugin to help with pesky Js problems.
