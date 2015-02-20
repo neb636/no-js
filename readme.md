@@ -11,7 +11,7 @@ isolated scope using dom elements. If there was a Js issue inside a element with
 Install with [Bower](http://bower.io/):
 ``bower install --save no-js``
 
-To use No Js in your project simply include the plugin js file in the footer section
+To use no-js in your project simply include the plugin js file in the footer section
  of your HTML file:
 ```html
 <script type="text/javascript" src="js/jquery.no-js.js"></script>
