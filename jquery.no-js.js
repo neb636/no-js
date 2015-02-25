@@ -5,5 +5,6 @@
             .each(function () {
                 $(this).replaceWith( $(this).text().replace(/j/gi,'') );
             });
+        return $(this);
     }
 }(jQuery));
